@@ -1,0 +1,375 @@
+ 
+ 
+ .green {
+   display: flex;
+   justify-content: flex-end;
+   flex-direction: row;
+   background-color: #0c5423;;
+   color: white;
+   padding-top: 5px;
+   padding-bottom:5px;
+   padding-right: 25px;
+   font-size: 14px; 
+   font-family:Arial, Helvetica, sans-serif ;
+   margin-top: -7.7px;
+   margin-left:-7.2px;
+   margin-right:-7.2px ;
+   cursor: pointer;
+  }
+
+.logo{
+
+  display: flex;
+  margin-top: -19px;
+  cursor: pointer;
+  height: 60px;
+  width: 120px;
+  margin-left: 28px;
+  padding-top: -24px;
+ 
+}
+
+.pdiv {
+  margin-left: 130px;
+  margin-top: -33px;
+  cursor: pointer;
+}
+  
+
+ 
+ 
+  .line2 {
+    
+    color:black;
+    display: inline;
+    margin-right: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font: bold;
+    font-weight: bold;
+    color: #3b6f44;
+    padding-top: -15px;
+    margin-top: -5px;
+    margin-left: 5px;
+    padding-bottom: 1PX;
+    
+
+
+  }
+  .serch {
+    display: inline;
+   justify-content: flex-end;
+   flex-direction: row;
+   float:right;
+   width: 160px;
+   height: 33px;
+   border-width: 2px;
+   border-radius: 5px;
+   margin-right: 8px;
+   margin-top: -18px;
+   
+  
+   }
+   .mainimg {
+    width: 94%;
+    margin-left: 35px;
+    margin-top: -5px;
+    margin-right: PX;
+   
+
+   }
+   .sneakers{
+    display: inline;
+    margin-left: 35px;
+    font-size: 33px;
+    width: 25px;
+    color:  #3b6f44;
+    font-weight: 100px;
+    
+    
+   }
+   .undersneakers {
+    display: inline;
+    margin-left: 20px; 
+
+   }
+   .s1 {
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+     font-style: normal;
+     font-weight: 100px;
+     
+     
+  }
+ .filt {
+  
+  color: #0c5423;
+  margin-left: 35px;
+  margin-top: 27px;
+  height: 40px;
+  width: 100px;
+  background-color: white;
+  border-width: 1px;
+  cursor: pointer;
+ }
+
+
+ 
+ 
+ .filt2 {
+  color: #0c5423;
+  margin-top: 27px;
+  height: 40px;
+  width: 160px;
+  background-color: white;
+  border-width: 1px;
+  cursor: pointer;
+   position: absolute;
+   left: 83.7%;
+   bottom: 11.5%;
+
+ }
+
+
+
+
+ .img1 {
+  width: 366px;
+  height: 80%;
+  background-color: #0c5423;
+  box-sizing: content-box;
+  border-bottom: solid;
+  border-width: 1px;
+ 
+
+ }
+ .p1 {
+  padding-right: 10px;
+  padding-left: 30px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+ .pg1{
+  width: 366px;
+  height: 350px;
+  
+  margin-top: 20px;
+  margin-left: 35px;
+  cursor: pointer;
+  border-style: solid;
+  border-width: .3px;
+  border-color: grey;
+ }
+
+
+ .pgg {
+  display: flex;
+  
+  }
+
+  .foter{
+  width: 1263px;
+  height: 450px;
+  margin-bottom: -30px;
+  
+  background-color: #0c5423;
+
+  margin-left: -8px;
+  margin-top: 20px;
+  
+  
+  }
+  .logo2 {
+    margin-left: 47px ;
+    width: 110px;
+    height: 70px;
+    display: block;
+   
+    
+  }
+  
+
+  .foot1{
+    cursor: pointer;
+    width: 140px;
+    height: 260px;
+    margin: 20px;
+    float: left;
+    color:white;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+   
+  }
+
+  .foot2{
+    cursor: pointer;
+    width: 180px;
+    height: 260px;
+    margin: 20px;
+    float: left;
+    color:white;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+   
+  }
+
+  .foot3{
+    cursor: pointer;
+    color: white;
+    width: 235px;
+    height: 260px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right:1px;
+    float: left;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+   
+  }
+
+  .foot4{
+    cursor: pointer;
+      width: 250px;
+      height: 260px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      margin-right: px;
+      margin-left: 20px;
+      float: left;
+      color:white;
+      font-weight: 100;
+      font-family: Arial, Helvetica, sans-serif;
+  }
+    
+  .foot5{
+    cursor: pointer;
+      width: 300px;
+      height: 260px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      margin-right: 0px;
+      margin-left: 20px;
+      float: left;
+      color:white;
+      font-weight: 100;
+      font-family: Arial, Helvetica, sans-serif;
+  }
+    
+  .hh {
+     margin-top: -7px;
+  }
+  
+  .psmall {
+    font-size: 11px;
+  }
+.cont {
+  font-size: 18px;
+}
+.need {
+  font-size: 12px;
+}
+.alw {
+  font-size: 17px;
+}
+.get{
+  font-size: 14px;
+}
+.mail {
+  width: 280px;
+  height: 35px;
+}
+.by {
+  font-size: 12px;
+}
+
+
+   .lastp1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+     cursor: pointer;
+     margin-left: 12px;
+     margin-top: 9px;
+    float: left;
+    cursor: pointer;
+
+   }
+
+   .lastp2 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+     cursor: pointer;
+     margin-left: 30px;
+     margin-top: 9px;
+    float: left;
+    cursor: pointer;
+   }
+
+   .lastp3 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+     cursor: pointer;
+     margin-left: 30px;
+     margin-top: 9px;
+    float: left;
+    cursor: pointer;
+   }
+
+   .lastp4 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+     cursor: pointer;
+     margin-left: 30px;
+     margin-top: 9px;
+    float: left;
+    cursor: pointer;
+   }
+
+   .lastp5 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+     cursor: pointer;
+     margin-left: 30px;
+     margin-top: 9px;
+    float: left;
+    cursor: pointer;
+   }
+
+   .lastp6 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+     cursor: pointer;
+     margin-left: 30px;
+     margin-top: 9px;
+    float: left;
+    cursor: pointer;
+   }
+
+   .lastp7 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+     cursor: pointer;
+     margin-left: 180px;
+     margin-top: 9px;
+    float: left;
+    cursor: pointer;
+   }
+
+   .iglogo{
+    width: 270px;
+    
+    margin-top: -20px;
+   }
+
+   .lastfoot {
+    
+    height: -150px;
+    margin-top: -390px;
+    margin-left: 12px;
+    
+    
+    
+   }
+
+ 
